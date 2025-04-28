@@ -4,7 +4,8 @@ The more tourism industries growing, there is continuous demanding for hotel roo
 
 
 ###Screenshot 1: 
-![Screenshot 1] (RoyalHomepage.png)
+! [Screenshot 1](RoyalHomepage.png)
+
 
 
 
