@@ -3,9 +3,11 @@ The more tourism industries growing, there is continuous demanding for hotel roo
 
 
 
-###Screenshot 1: 
+###Royal Hotel HomePage: 
 ! [Screenshot 1](RoyalHomepage.png)
 
+###The Kitchen:
+! [Screenshot 1](RoyalKitchen.png)
 
-
-
+###The Beaty:
+! [Screenshot 1](TheStory.png)
